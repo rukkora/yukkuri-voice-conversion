@@ -1,10 +1,8 @@
-# yukkuri-voice-conversion
-
 # 使用方法
 
 ## 前提条件
--Python(3系)をインストールしてあること
--ffmpegをインストールしてあること
+- Python(3系)をインストールしてあること
+- ffmpegをインストールしてあること
 
 ```bash
 pip install soundfile
@@ -16,4 +14,4 @@ yukkuri2.wav #先ほど変換したファイル名を入力
 
 ## 使用した結果
 
-[YouTube　サンプル](https://www.youtube.com/watch?v=hkj5O3c4ATU&feature=youtu.be)
+[サンプル動画(YouTube)](https://www.youtube.com/watch?v=hkj5O3c4ATU&feature=youtu.be)
